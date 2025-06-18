@@ -1,5 +1,7 @@
 let isPhoneRequired = false
 
+if
+
 const phoneLabelSpan = document.querySelector('.phone-label-span')
 const phoneField = document.getElementById('phone')
 
